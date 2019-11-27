@@ -1,3 +1,7 @@
+@pedropbazzo
+
+Viva opensource
+
 # React Native app
 
 _Fictional app to make an appointment with a barber - Rocketseat bootcamp - module 10_
